@@ -40,4 +40,4 @@ Este bot es ideal para servidores de Discord que necesiten funcionalidades avanz
 
 ---
 
-Si quieres que agregue más detalles o enfoque en algo específico, dime y lo ajusto. 🚀
+
